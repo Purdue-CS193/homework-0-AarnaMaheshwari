@@ -1,6 +1,6 @@
 ## Aarna Maheshwari's First CS193 Homework
 
-Some of my favorite things abt CS193 :
+## Some of my favorite things abt CS193 :
 
 - My CS193 class ends in the evening which makes for a nice walk back in pleasant weather.
 - The quizzes at the end of the class are pretty quirky and I have fun taking them.
